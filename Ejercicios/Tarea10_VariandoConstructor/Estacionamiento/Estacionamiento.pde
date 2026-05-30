@@ -18,7 +18,6 @@ void setup() {
 }
 
 void draw() {
-  //  println(frameRate);
   background(#989393);
   for (int i = 0; i<columnas; i++) {
     for (int j = 0; j<filas; j++) {
